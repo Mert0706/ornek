@@ -7,6 +7,9 @@ public class Kisi {
     public String soyad;
     public double maas;
 
+
+    //Consturactor overloading
+    //Obje oluştururken hangi Consturactor uyuyorsa onu çalıştırıyor.
     public Kisi() {
     }
 
