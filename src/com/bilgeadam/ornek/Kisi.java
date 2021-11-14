@@ -68,10 +68,10 @@ public class Kisi {
     @Override
     public String toString() {
         return "Kisi{" +
-                "no=" + no +
-                ", ad=" + ad +
-                ", soyad=" + soyad +
-                ", maas=" + maas +
+                "no=" + no + "\n" +
+                ", ad=" + ad + "\n" +
+                ", soyad=" + soyad + "\n" +
+                ", maas=" + maas + "\n" +
                 ", Yıllık Maaş=" + yillik_maas_getir() +
                 '}';
     }
