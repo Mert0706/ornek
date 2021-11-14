@@ -71,7 +71,7 @@ public class Kisi {
                 "no=" + no + "\n" +
                 ", ad=" + ad + "\n" +
                 ", soyad=" + soyad + "\n" +
-                ", maas=" + maas + "\n" +
+                ", maas=" + maas + "\nn" +
                 ", Yıllık Maaş=" + yillik_maas_getir() +
                 '}';
     }
